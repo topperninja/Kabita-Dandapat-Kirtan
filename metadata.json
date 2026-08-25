@@ -1,0 +1,6 @@
+{
+  "name": "ClassMasti",
+  "description": "Offline Mobile Code Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
